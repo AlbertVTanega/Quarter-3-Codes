@@ -1,0 +1,22 @@
+Real-Life Connections: String Manipulation
+1. Auto-capitalizing names
+Programs use functions like capitalize() or title() to automatically change the first letter of a name to uppercase before saving it.
+
+2. Checking password length
+Programs use a length function (such as len()) to count the characters and check if the password meets the required length.
+
+3. Separating an address
+Programs use split() to divide the address into parts like barangay, municipality, province, and zip code based on spaces.
+
+4. Standardizing names
+Programs convert all names to lowercase using lower() and then apply title() so all names follow the same format.
+
+📄 FA8 – Real-Life Connections: Date Manipulation
+1. Sorting server logs
+Date and time functions allow programs to arrange logs in the correct order based on when actions happened.
+
+2. Calculating age
+Programs subtract the birthdate from the current date to find a person’s age and send birthday reminders.
+
+3. Calculating next billing date
+Programs add days or months to the last payment date to automatically compute the next billing date.
