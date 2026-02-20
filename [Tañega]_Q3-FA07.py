@@ -18,3 +18,9 @@ for i in range(len(names)):
     print()
     print("Maximum steps in dataset:", np.max(steps))
     print("Minimum steps in dataset:", np.min(steps))
+
+# Reflection
+Using a 2D array made it easier to organize the step data for each person in rows. 
+It allowed me to calculate totals and averages quickly using NumPy functions. 
+Finding the maximum and minimum values was simple because the array stores all data together. 
+Overall, arrays made summarizing the dataset faster and more organized.
